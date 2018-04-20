@@ -1,0 +1,25 @@
+# ENTAC
+# 验证用户名
+# 版本控制：
+# 1.Subversion  必须有中央服务器
+# 2.Git         可以先在本地同步d
+# git --version                            确认是否安装Git
+# git init                                 加入版本控制
+# git add .                                添加
+# git status                               查看
+# git commit -m '项目的初始版本'            提交并写原因
+# git log                                   查看日志
+# git reset HEAD^                           回到上一版本
+# git reset 版本号                          回到对应版本号的版本
+# git remote add origin 网址                给远端仓库建立联系
+# git pull 网址                             与服务器上代码同步
+# git push origin master                    往服务器上传代码
+# git clone 网址                            下载项目
+# git rm 文件名                             删除文件git 
+# git check out 文件名                      重新拿出文件
+# git branch                                查看分支
+# git branch 名称                           建立分支
+# git checkout 名称                         切换至该名称的分支
+# git merge 分支名称                        合并分支到主线
+
+# git checkout -b 名称                      创建分支并切换至该分支
